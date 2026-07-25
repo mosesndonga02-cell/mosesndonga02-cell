@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Moses Ndonga 👋
 
-<!--
-**mosesndonga02-cell/mosesndonga02-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Data Science candidate (UWE Bristol) with a background in Actuarial Science.
+I build end-to-end data projects — machine learning, data pipelines and analytics.
 
-Here are some ideas to get you started:
+**Skills:** Python · SQL · dbt · Snowflake · Tableau · Excel · scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+- **Customer Churn Prediction** — ML models in Python (0.80 AUC), with honest evaluation of limitations
+- **FMCG Analytics Pipeline** — dbt + Snowflake, automated data-quality testing and lineage
+- **Retail Orders Analysis** — advanced SQL: window functions, CTEs, subqueries
+- **Customer Revenue & Churn Dashboard** — Tableau
+
+📊 Tableau: [public.tableau.com/app/profile/moses.ndonga](https://public.tableau.com/app/profile/moses.ndonga)
+📧 mosesndonga02@gmail.com
